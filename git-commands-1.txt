@@ -13,6 +13,7 @@ git remote add origin <GitHub Repository URL>------------> establish connection 
 git push origin master-----------------------------------> push to master branch
 ----------------------------------------------------------------------------------------------------------------
 
+=======
 Scenario 1
 blah blah blah
 
@@ -21,3 +22,7 @@ blah blah blah
 
 Scenario 3
 blah blah blah
+
+
+Put diagram here
+))))))))))))))))
